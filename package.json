@@ -1,0 +1,17 @@
+{
+  "name": "mediagrab-api",
+  "version": "1.0.0",
+  "description": "Edge API for video/image downloading via Cloudflare Workers",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "keywords": ["cloudflare", "workers", "downloader", "youtube", "twitter", "instagram", "tiktok", "reddit"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

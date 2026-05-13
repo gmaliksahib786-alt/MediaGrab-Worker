@@ -1,0 +1,7 @@
+name = "mediagrab-api"
+main = "src/index.js"
+compatibility_date = "2024-05-13"
+compatibility_flags = ["nodejs_compat"]
+
+# Free tier: 100,000 requests/day
+# Upgrade to Workers Paid ($5/month) for 10 million + $0.30/million after
